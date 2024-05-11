@@ -30,7 +30,7 @@ body {
     color: #d9dcd6;
 }
 
-.header div {
+.header div  {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -46,6 +46,9 @@ body {
     display: inline-block;
     margin-left: 25px;
 }
+
+
+
 
 a {
     color: #ffffff;
@@ -200,7 +203,7 @@ p {
 }
 
 
-
+/* Footer Related */
 
 .footer {
     padding: 30px;
@@ -212,3 +215,4 @@ p {
 .footer h2 {
     font-size: 20px;
 }
+
