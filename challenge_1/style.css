@@ -30,7 +30,7 @@ body {
     color: #d9dcd6;
 }
 
-.header div  {
+.header nav  {                                                                          /* I removed "div" on some of these and added "nav" instead. It works for the semantics in the html (for now) */
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -38,11 +38,11 @@ body {
     font-size: 20px;
 }
 
-.header div ul {
+.header nav ul {
     list-style-type: none;
 }
 
-.header div ul li {
+.header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
