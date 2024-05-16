@@ -6,7 +6,7 @@ Many of my list of changes are within the commits made. There are also some comm
 Here is a screenshot of the deployed site. Hopefully it renders.
 ![Screenshot 2024-05-11 184825](https://github.com/edamama/challenge_module1_tylerpayne/assets/169082073/b259fb4f-6baf-4efe-a60e-b85c39ec3913)
 
-(page link) http://127.0.0.1:5500/index.html
+(page link) index.html
 
-(Link to repository)
-https://github.com/edamama/challenge_module1_tylerpayne.git
+(Link to repository) https://edamama.github.io
+
